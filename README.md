@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henrique Brito!
 
-<!--
-**W7-Henri/W7-Henri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Back-End Software Developer**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC ZL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento back-end, focado na criação de aplicações robustas, escaláveis e bem estruturadas.  
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Java e arquitetura de sistemas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- ☕ **Java**
+- 🌱 **Spring Boot**
+- 🗄️ **SQL Server**
+- 🔧 APIs REST
+- 📦 Versionamento com Git e GitHub
+
+---
+
+## 📚 Atualmente estudando
+- Arquitetura de Software
+- Boas práticas de desenvolvimento (Clean Code)
+- Microsserviços com Spring Boot
+
+---
+
+## 📊 GitHub Stats
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=W7-Henri&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Contato
+- LinkedIn: (adicione aqui)
+- Email: (adicione aqui)
+
+---
+
+⭐ Sempre em busca de aprendizado e novos desafios!
