@@ -34,8 +34,8 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Java e arqu
 ---
 
 ## 📫 Contato
-- LinkedIn: (adicione aqui)
-- Email: (adicione aqui)
+- LinkedIn: (https://www.linkedin.com/in/henrique-brito-de-carvalho-410b11345/)
+- Email: (henriquebrito42069@gmail.com)
 
 ---
 
